@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: javax:javaee-api:8.0.1">
+    <archive path="/home/felipe/.m2/repository/javax/javaee-api/8.0.1/javaee-api-8.0.1.jar" />
+  </library>
+  <library name="Maven: com.sun.mail:javax.mail:1.6.2">
+    <archive path="/home/felipe/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="/home/felipe/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
