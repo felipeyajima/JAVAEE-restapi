@@ -1,2 +1,4 @@
 br/com/yajima/JAXConfiguration.class
+br/com/yajima/Person.class
+br/com/yajima/Funcionario.class
 br/com/yajima/EchoResource.class
