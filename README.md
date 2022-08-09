@@ -3,6 +3,7 @@
 API mockada simples em JavaEE para leitura (GET) com 3 objetos em um array. Maven
 
 Endereço: /api/
+
 Endereço no Jboss: 8080/a-minha-api/api/
 
 
